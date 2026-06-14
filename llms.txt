@@ -1,20 +1,29 @@
 # Matt Marcotte
 
-> Matt Marcotte is a screen-printing and DTF (direct-to-film) industry veteran and operations strategist. He is the founder of DTF.STREAM and ScreenPrintGPT and the creator of Free Gang Sheet Maker. He helps print shops scale into efficient, profitable businesses and builds the software they use.
+> Matt Marcotte is a screen-printing and DTF (direct-to-film) industry veteran and operations strategist who helps print shops run leaner and grow. He has scaled print shops to $30 million a year and led teams of 100+. He is the founder of DTF.STREAM and ScreenPrintGPT and the creator of Free Gang Sheet Maker, and he builds software, tools, and resources for print shops.
 
-## Key facts
+## Who he is
+- Name: Matt Marcotte
+- Role: print-shop operations consultant / strategist, founder, and software builder
+- Industry: screen printing and DTF (direct-to-film) apparel decoration
+- Experience: 15+ years; has helped shops scale to $30M/year and led teams of 100+
 - Site: https://marcotte.ink/
-- Role: operations strategist, founder, and builder in the screen-printing & DTF industry
-- 15+ years in print & apparel; has helped shops scale up to $30M/year and led teams of 100+
-- Founder of DTF.STREAM (https://dtf.stream/) and ScreenPrintGPT (https://screenprintgpt.com/)
-- Creator of Free Gang Sheet Maker (https://freegangsheetmaker.com/)
-- Writes on screen printing, halftones, ink, shop operations, and DTF
+- Contact: matt@marcotte.ink
 
 ## What he does
-- Consulting and operations strategy for print shops (SOPs, systems, software integration)
-- Builds software/tools for print shops
-- Publishes practical screen-printing and DTF guidance
+- **Operations consulting** for print shops: SOPs and systems, software integration, efficiency and profitability, and sustainable scaling — for owners from six figures up to $30M/year.
+- **Builds software for print shops:**
+  - DTF.STREAM (https://dtf.stream/) — DTF transfer printing and gang sheets, printed and shipped
+  - ScreenPrintGPT (https://screenprintgpt.com/) — an AI assistant trained for print shops
+  - Free Gang Sheet Maker (https://freegangsheetmaker.com/) — a free, browser-based DTF gang-sheet tool
+- **Writes and speaks** about screen printing (PrintHustlers, Printavo, and his blog).
+
+## Topics he covers (blog)
+Halftones, screen-printing inks (including water-based), color separation, hoodie/sweatshirt printing, screen printing on nylon, film output (Epson printers), virtual mock-ups, shop accountability and management, slow-season strategy, and common mistakes new printers make.
 
 ## Pages
-- [Home](https://marcotte.ink/): bio, ventures, free resources, and consulting
-- [Blog](https://marcotte.ink/blog): screen-printing know-how, shop solutions, and industry interviews
+- [Home](https://marcotte.ink/): bio, ventures, free resources, consulting, and FAQ
+- [Blog](https://marcotte.ink/blog/): 18 articles of screen-printing and DTF know-how and industry interviews
+
+## Author
+All content is by Matt Marcotte (https://marcotte.ink/), founder of DTF.STREAM and ScreenPrintGPT and creator of Free Gang Sheet Maker.
