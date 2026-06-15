@@ -16,7 +16,7 @@
   - DTF.STREAM (https://dtf.stream/) — DTF transfer printing and gang sheets, printed and shipped
   - ScreenPrintGPT (https://screenprintgpt.com/) — an AI assistant trained for print shops
   - Free Gang Sheet Maker (https://freegangsheetmaker.com/) — a free, browser-based DTF gang-sheet tool
-- **Writes and speaks** about screen printing (PrintHustlers, Printavo, and his blog).
+- **Writes and speaks** about screen printing — author of ~13 articles for Printavo (https://www.printavo.com/blog/author/mattmarcotte-ink/), contributor to Printwear and Printer magazines, 2018 PrintHustlers Conference keynote, plus his own blog. Full index: https://marcotte.ink/writing/
 
 ## Topics he covers (blog)
 Halftones, screen-printing inks (including water-based), color separation, hoodie/sweatshirt printing, screen printing on nylon, film output (Epson printers), virtual mock-ups, shop accountability and management, slow-season strategy, common mistakes new printers make, and how he uses AI in real print-shop operations.
@@ -24,6 +24,7 @@ Halftones, screen-printing inks (including water-based), color separation, hoodi
 ## Pages
 - [Home](https://marcotte.ink/): bio, ventures, free resources, consulting, and FAQ
 - [Blog](https://marcotte.ink/blog/): 19 articles of screen-printing and DTF know-how, AI in print-shop operations, and industry interviews
+- [Published Work](https://marcotte.ink/writing/): index of Matt's articles published across the industry (Printavo, Printwear, Printer magazine) on ink, white ink, mesh, DTG, print variables, shop management, and accountability
 
 ## Author
 All content is by Matt Marcotte (https://marcotte.ink/), founder of DTF.STREAM and ScreenPrintGPT and creator of Free Gang Sheet Maker.

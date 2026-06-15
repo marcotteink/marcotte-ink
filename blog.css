@@ -30,6 +30,10 @@ article blockquote{border-left:3px solid var(--accent);margin:18px 0;padding:4px
 article a{color:var(--accent-2)}
 hr{border:0;border-top:1px solid var(--line);margin:34px 0}
 .backlink{display:inline-block;margin-top:10px;color:var(--accent);font-weight:650;text-decoration:none}
+/* writing / portfolio groups */
+.writing-group{font-size:20px;font-weight:800;color:var(--text);margin:30px 0 4px;letter-spacing:-.3px}
+.writing-note{color:var(--muted);font-size:15px;margin:22px 0 0;padding-top:18px;border-top:1px solid var(--line)}
+.postlist a .src{display:inline-block;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:#9d83ff;border:1px solid var(--line);border-radius:999px;padding:2px 9px;margin-top:2px}
 /* blog index */
 .index-head{padding:30px 0 6px}
 .index-head h1{margin-bottom:6px}
