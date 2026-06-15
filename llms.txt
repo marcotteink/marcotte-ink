@@ -19,11 +19,11 @@
 - **Writes and speaks** about screen printing (PrintHustlers, Printavo, and his blog).
 
 ## Topics he covers (blog)
-Halftones, screen-printing inks (including water-based), color separation, hoodie/sweatshirt printing, screen printing on nylon, film output (Epson printers), virtual mock-ups, shop accountability and management, slow-season strategy, and common mistakes new printers make.
+Halftones, screen-printing inks (including water-based), color separation, hoodie/sweatshirt printing, screen printing on nylon, film output (Epson printers), virtual mock-ups, shop accountability and management, slow-season strategy, common mistakes new printers make, and how he uses AI in real print-shop operations.
 
 ## Pages
 - [Home](https://marcotte.ink/): bio, ventures, free resources, consulting, and FAQ
-- [Blog](https://marcotte.ink/blog/): 18 articles of screen-printing and DTF know-how and industry interviews
+- [Blog](https://marcotte.ink/blog/): 19 articles of screen-printing and DTF know-how, AI in print-shop operations, and industry interviews
 
 ## Author
 All content is by Matt Marcotte (https://marcotte.ink/), founder of DTF.STREAM and ScreenPrintGPT and creator of Free Gang Sheet Maker.
