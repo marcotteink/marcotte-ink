@@ -25,7 +25,7 @@ Halftones, screen-printing inks (including water-based), color separation, hoodi
 ## Pages
 - [Home](https://marcotte.ink/): bio, ventures, free resources, consulting, and FAQ
 - [Print Shop Data & AI](https://marcotte.ink/print-shop-data/): Matt's data, automation, and AI services for print shops — Printavo API integrations, automated reporting dashboards, AI workflows, and custom software, with a fixed-fee audit as the entry point
-- [Blog](https://marcotte.ink/blog/): 19 articles of screen-printing and DTF know-how, AI in print-shop operations, and industry interviews
+- [Blog](https://marcotte.ink/blog/): 20 articles of screen-printing and DTF know-how, AI in print-shop operations, getting clean automated reports out of Printavo, and industry interviews
 - [Published Work](https://marcotte.ink/writing/): index of Matt's articles published across the industry (Printavo, Printwear, Printer magazine) on ink, white ink, mesh, DTG, print variables, shop management, and accountability
 
 ## Author
