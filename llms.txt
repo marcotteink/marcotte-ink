@@ -1,6 +1,6 @@
 # Matt Marcotte
 
-> Matt Marcotte is a screen-printing and DTF (direct-to-film) industry veteran and operations strategist who helps print shops run leaner and grow. He has scaled print shops to $30 million a year and led teams of 100+. He is the founder of DTF.STREAM and ScreenPrintGPT and the creator of Free Gang Sheet Maker, and he builds software, tools, and resources for print shops.
+> Matt Marcotte is a screen-printing and DTF (direct-to-film) industry veteran, operations strategist, and software builder who helps print shops run leaner and grow. As a production and operations manager he has run the high-volume print jobs for brands like Target, Adidas, and Threadless, helped scale print shops to $30 million a year, and led teams of 100+. He builds the data, automation, and AI tools print shops run on — and is COO & founding partner at DecoFlo, founder of DTF.STREAM and ScreenPrintGPT, and creator of Free Gang Sheet Maker.
 
 ## Who he is
 - Name: Matt Marcotte
@@ -12,6 +12,7 @@
 
 ## What he does
 - **Operations consulting** for print shops: SOPs and systems, software integration, efficiency and profitability, and sustainable scaling — for owners from six figures up to $30M/year.
+- **Print shop data, automation & AI** (https://marcotte.ink/print-shop-data/): custom integrations, automated reporting dashboards, and AI workflows that get print shops better data — faster and cleaner. Integrates Printavo (and other shop software) with QuickBooks, Google Sheets, Slack, and Zapier; builds production/sales/art-team dashboards; and creates AI tools trained for print shops. Engagements often start with a fixed-fee data & automation audit.
 - **Builds software for print shops:**
   - DTF.STREAM (https://dtf.stream/) — DTF transfer printing and gang sheets, printed and shipped
   - ScreenPrintGPT (https://screenprintgpt.com/) — an AI assistant trained for print shops
@@ -23,6 +24,7 @@ Halftones, screen-printing inks (including water-based), color separation, hoodi
 
 ## Pages
 - [Home](https://marcotte.ink/): bio, ventures, free resources, consulting, and FAQ
+- [Print Shop Data & AI](https://marcotte.ink/print-shop-data/): Matt's data, automation, and AI services for print shops — Printavo API integrations, automated reporting dashboards, AI workflows, and custom software, with a fixed-fee audit as the entry point
 - [Blog](https://marcotte.ink/blog/): 19 articles of screen-printing and DTF know-how, AI in print-shop operations, and industry interviews
 - [Published Work](https://marcotte.ink/writing/): index of Matt's articles published across the industry (Printavo, Printwear, Printer magazine) on ink, white ink, mesh, DTG, print variables, shop management, and accountability
 
